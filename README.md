@@ -30,9 +30,26 @@ git clone https://github.com/Akhilmadhu7/Snapbuy.git
 
 # Login Details
 <br/>
-Email	 &nbsp &nbsp         Name	    Password	    Role
-<br/>
-8137069912	  admin	    admin	        Administrator
+<table>
+  <thead>
+    <tr>
+      <th>Phone Number</th>
+      <th>Name</th>
+      <th>password</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8137069912</td>
+      <td>admin</td>
+      <td>12345</td>
+      <td>Administrator</td>
+    </tr>
+   </tbody> 
+ </table> 
+
+
 
 # Installation
 <br/>
