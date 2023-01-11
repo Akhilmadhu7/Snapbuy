@@ -25,8 +25,10 @@ Features
 
 # Run Locally
 <br/>
-Clone the project
-git clone https://github.com/Akhilmadhu7/Snapbuy.git
+Clone the project 
+<br/>
+git clone <a href=https://github.com/Akhilmadhu7/Snapbuy.git>  https://github.com/Akhilmadhu7/Snapbuy.git 
+
 
 # Login Details
 <br/>
