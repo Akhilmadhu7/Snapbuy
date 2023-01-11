@@ -18,7 +18,11 @@ Features
 # Sample Images
 <br/>
 <img width="1440" alt="Screenshot 2023-01-11 at 5 16 49 PM" src="https://user-images.githubusercontent.com/105537855/211799894-715dd212-c8b8-4b48-9cdc-6eb81046dfc5.png">
-![image](https://user-images.githubusercontent.com/105537855/211800390-b7332253-0c74-45fa-98ec-ee36e0205360.png)
+<img width="1440" alt="Screenshot 2023-01-11 at 5 24 34 PM" src="https://user-images.githubusercontent.com/105537855/211800838-99bc36c0-b3c6-46e0-ba7c-a05731fdbb70.png">
+
+
+<img width="1440" alt="Screenshot 2023-01-11 at 5 27 16 PM" src="https://user-images.githubusercontent.com/105537855/211800792-68f995c6-1406-4bdc-aea2-ac4894d3a250.png">
+
 
 
 
