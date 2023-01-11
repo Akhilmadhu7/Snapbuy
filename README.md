@@ -55,7 +55,7 @@ git clone <a href=https://github.com/Akhilmadhu7/Snapbuy.git>  https://github.co
 
 # Installation
 <br/>
-Install <a href=https://docs.djangoproject.com/en/4.1/>django
+Install <a href=https://www.geeksforgeeks.org/django-introduction-and-installation/>django </> (<a href=https://docs.djangoproject.com/en/4.1/> django documentation </>)
 
 
 
