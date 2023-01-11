@@ -26,6 +26,16 @@ Features
 # Run Locally
 <br/>
 Clone the project
+git clone https://github.com/Akhilmadhu7/Snapbuy.git
+
+# Login Details
+<br/>
+Email	        Name	    Password	    Role
+8137069912	  admin	    admin	        Administrator
+
+# Installation
+<br/>
+Install https://docs.djangoproject.com/en/4.1/
 
 
 
